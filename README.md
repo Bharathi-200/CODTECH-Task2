@@ -1,3 +1,6 @@
+Name: S.Bharathi Company: CODTECH IT SOLUTIONS ID: CT08DS1663 Domain: Frontend Duration: June to July
+
+
 Objective:
 Create a Quiz App that tests users' knowledge in various categories, with features like scoring, timer, and sound effects.
 
